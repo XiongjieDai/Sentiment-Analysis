@@ -3,8 +3,8 @@
 ## Introduction
 Machine learning techniques have become increasingly popular and relevant to solve text and sentiment related problems in recent years. It has boosted performance on several tasks and significantly reduced the necessity for human efforts. For this project, we will focus on text classification, especially sentiment analysis, on several datasets. Since there are researches about sentiment analysis on _Amazon Review_ dataset, we will first use the same methods but R packages on the same dataset, and then replicate the methods on datasets other than the _Amazon Review_ dataset. By completing the project, we are trying to realize the following goals:
 - Build four text sentiment classifiers on [Amazon Review](https://drive.google.com/drive/folders/14vWNcYX7ajd2YjPbf6Vi9cY35q3kq8ZE) dataset (`BoW`, `Word2Vec`, `GloVe`, `fastText`);
-- Re-apply the above four classifiers on [Drug Reveiw dataset](https://drive.google.com/drive/folders/14vWNcYX7ajd2YjPbf6Vi9cY35q3kq8ZE);
-- Compare different classifiers for datasets
+- Re-apply the above four classifiers on [Drug Reveiw](https://drive.google.com/drive/folders/14vWNcYX7ajd2YjPbf6Vi9cY35q3kq8ZE) dataset;
+- Compare different classifiers for datasets.
 
 
 
